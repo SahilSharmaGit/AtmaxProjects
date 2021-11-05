@@ -1,2 +1,5 @@
-this is note1
-this is line2
+git init
+git add 
+git commit -m "message"
+git log
+git show id
