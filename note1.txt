@@ -3,3 +3,9 @@ git add
 git commit -m "message"
 git log
 git show id
+git status 
+git diff filename
+git branch -----> current branch
+git checkout -b SahilBranch   ---> to create and switched to branch
+git checkout master
+git branch -d SahilBranch  ----> to delete branch
